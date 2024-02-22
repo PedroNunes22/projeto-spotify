@@ -10,8 +10,11 @@ JavaScript
 
 ## Funcionalidades Implementadas
 Criação de um layout semelhante ao do Spotify, com destaque para a seção de playlists e artistas.
+
 Manipulação do DOM para exibição dinâmica de playlists e artistas.
+
 Implementação de um grid inteligente que se adapta dinamicamente ao tamanho da tela.
+
 Utilização de variáveis CSS para facilitar a manutenção e personalização do estilo.
 
 ## imagem
@@ -20,6 +23,9 @@ Utilização de variáveis CSS para facilitar a manutenção e personalização 
 
 ## Aprendizados
 Aprofundamento na manipulação do DOM usando JavaScript para criar, atualizar e remover elementos dinamicamente.
+
 Utilização do javaScript para criação de grid inteligente que se ajusta ao tamanho da tela.
+
 Utilização de variáveis CSS para facilitar a personalização e manutenção do estilo.
+
 Resolução de problemas e depuração de código JavaScript.
