@@ -3,7 +3,9 @@ Este é um projeto de uma página semelhante ao Spotify, focado na prática de m
 
 ## Tecnologias Utilizadas
 HTML5
+
 CSS3 (com uso de variáveis CSS)
+
 JavaScript 
 
 ## Funcionalidades Implementadas
