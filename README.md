@@ -21,6 +21,8 @@ Utilização de variáveis CSS para facilitar a manutenção e personalização 
 
 ![print-spotify](https://github.com/PedroNunes22/projeto-spotify/assets/119435629/df3bc38e-ab41-497e-9d98-a40899a630e9)
 
+![SPOTIFY](https://github.com/PedroNunes22/projeto-spotify/assets/119435629/b7d4a23d-78f4-4f39-8777-9dc481a10e3a)
+
 ## Aprendizados
 Aprofundamento na manipulação do DOM usando JavaScript para criar, atualizar e remover elementos dinamicamente.
 
